@@ -1,0 +1,17 @@
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\bin\Debug\Gurov_Praktika.exe.config
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\bin\Debug\Gurov_Praktika.exe
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\bin\Debug\Gurov_Praktika.pdb
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika.csproj.AssemblyReference.cache
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\MainWindow.g.cs
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\App.g.cs
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika_MarkupCompile.cache
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika_MarkupCompile.lref
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\MainWindow.baml
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika.g.resources
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika.Properties.Resources.resources
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika.csproj.GenerateResource.cache
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika.exe
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika.pdb
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Dictionary.baml
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\App.baml

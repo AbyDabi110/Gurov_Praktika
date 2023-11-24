@@ -7,6 +7,19 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="45*"/>
+            <RowDefinition Height="127*"/>
+            <RowDefinition Height="45*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="62*"/>
+            <ColumnDefinition Width="9*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle Margin="45,45,45,45" Stroke="Black" Grid.RowSpan="3" Grid.ColumnSpan="3" StrokeThickness="0"/>
+        <Button Grid.Column="1" Content="Назад" HorizontalAlignment="Left" Margin="10,78,0,0" VerticalAlignment="Top" Height="25" Grid.RowSpan="2" Width="80"/>
+        <Frame x:Name="MainFrame" Grid.Column="1" Content="Frame" Margin="10,18,10,10" Grid.Row="1"/>
+        <Label Grid.Column="1" Content="Label" HorizontalAlignment="Center" Height="42" Margin="0,47,0,0" VerticalAlignment="Top" Width="448" Grid.Row="1"/>
     </Grid>
 </Window>
