@@ -60,3 +60,7 @@ C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\bin\Debug\System.Runtime.Co
 C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\bin\Debug\System.ValueTuple.xml
 C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Gurov_Praktika.csproj.CopyComplete
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Pages\Page2.g.cs
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Pages\Page2.baml
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Pages\CustomerMenu.g.cs
+C:\Users\user2\Desktop\Gurov_Praktika\Gurov_Praktika\obj\Debug\Pages\CustomerMenu.baml

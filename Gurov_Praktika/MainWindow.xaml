@@ -18,8 +18,8 @@
             <ColumnDefinition Width="9*"/>
         </Grid.ColumnDefinitions>
         <Rectangle Margin="45,45,45,45" Stroke="Black" Grid.RowSpan="3" Grid.ColumnSpan="3" StrokeThickness="0"/>
-        <Button Content="Назад" HorizontalAlignment="Center" Margin="0,64,0,0" VerticalAlignment="Top" Height="25" Width="70"/>
-        <Frame x:Name="MainFrame" Grid.Column="1" Content="Frame" Margin="10,18,10,27" Grid.Row="1" Source="Pages/AuthPage.xaml" Grid.RowSpan="2"/>
+        <Button x:Name="ButtonBack" Content="Назад" HorizontalAlignment="Center" Margin="0,64,0,0" VerticalAlignment="Top" Height="25" Width="70" Click="ButtonBack_Click"/>
+        <Frame x:Name="MainFrame" Grid.Column="1" Content="Frame" Margin="10,18,10,27" Grid.Row="1" Source="Pages/AuthPage.xaml" Grid.RowSpan="2" Navigated="MainFrame_OnNavigated"/>
         <Label Grid.Column="1" Content="Label" HorizontalAlignment="Center" Height="42" VerticalAlignment="Center" Width="448"/>
     </Grid>
 </Window>

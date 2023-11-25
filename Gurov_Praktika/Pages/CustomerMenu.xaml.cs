@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.Remoting.Metadata.W3cXsd2001;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -17,27 +16,28 @@ using System.Windows.Shapes;
 namespace Gurov_Praktika.Pages
 {
     /// <summary>
-    /// Логика взаимодействия для AuthPage.xaml
+    /// Логика взаимодействия для CustomerMenu.xaml
     /// </summary>
-    public partial class AuthPage : Page
+    public partial class CustomerMenu : Page
     {
-        public AuthPage()
+        public CustomerMenu()
         {
             InitializeComponent();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (string.IsNullOrEmpty(Login.Text) || string.IsNullOrEmpty(Password.Text))
-            {
-                MessageBox.Show("Введите логин и пароль.");
-                return;
-            }
+            NavigationService?.Navigate(new Page2());
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
-            NavigationService?.Navigate(new Page2());
+            NavigationService?.Navigate(new AuthPage());
+        }
+
+        private void Button_Click_2(object sender, RoutedEventArgs e)
+        {
+            NavigationService?.Navigate(new Menu());
         }
     }
 }
