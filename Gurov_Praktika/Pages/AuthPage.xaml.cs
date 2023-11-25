@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Metadata.W3cXsd2001;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -23,6 +24,15 @@ namespace Gurov_Praktika.Pages
         public AuthPage()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (string.IsNullOrEmpty(Login.Text) || string.IsNullOrEmpty(Password.Text))
+            {
+                MessageBox.Show("Введите логин и пароль.");
+                return;
+            }
         }
     }
 }
